@@ -1,6 +1,6 @@
  👋 Hi there, I'm Aryan Timilsina
 - 💻 I'm interested in App Development, ML, and Data Science
-- 🔭 I’m currently working on a Gym Tracking app
+- 🔭 I’m currently working on a Gym Tracking app as well as a Task Tracking app
 - 🌱 I’m currently learning React Native, WatermelonDB, and MongoDB
 - 👯 I’m looking to collaborate on and contribute to projects related to App Dev and ML
 - 📫 Email: aryan.timilsina195@gmail.com || Linkedin: https://www.linkedin.com/in/aryan-timilsina/
